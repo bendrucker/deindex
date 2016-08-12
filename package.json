@@ -1,0 +1,32 @@
+{
+  "name": "deindex",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Flatten an object with `index` keys",
+  "license": "MIT",
+  "repository": "bendrucker/deindex",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "index",
+    "flatten",
+    "traverse"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^7.0.0"
+  },
+  "files": [
+    "index.js",
+    "test.js"
+  ],
+  "dependencies": {
+    "traverse": "~0.6.6"
+  }
+}
