@@ -1,7 +1,7 @@
 {
   "name": "deindex",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Flatten an object with `index` keys",
   "license": "MIT",
   "repository": "bendrucker/deindex",
