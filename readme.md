@@ -1,4 +1,4 @@
-# deindex [![Build Status](https://travis-ci.org/bendrucker/deindex.svg?branch=master)](https://travis-ci.org/bendrucker/deindex)
+# deindex [![Build Status](https://travis-ci.org/bendrucker/deindex.svg?branch=master)](https://travis-ci.org/bendrucker/deindex) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/deindex.svg)](https://greenkeeper.io/)
 
 > Flatten an object with `index` keys
 
